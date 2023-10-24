@@ -5,7 +5,7 @@ Um site informativo, contendo um pouco da historia de cada pirata do chapéu de 
 
 # Aprendizado 👨‍💻
 ° <b>Semântica HTML</b>: Criação de cada personagem dentro de uma main, colocando separadamente cada personagem em divs.<br>
-° <b>Botões em HTML</b>: Melhorando a interação com botões HTML: Troca de imagem com seleção de personagem usando javaScript.<br>
+° <b>Botões em HTML</b>: Melhorando a interação com botões html. Troca de imagem com seleção de personagem usando javaScript.<br>
 ° <b>Design</b>: Aprimorando o design do site com responsividade e reset de estilo para melhor estética e funcionalidade.
 
 # Acesso ao site 🌐
