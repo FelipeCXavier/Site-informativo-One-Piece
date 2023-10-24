@@ -15,7 +15,7 @@ Um site informativo, contendo um pouco da historia de cada pirata do chapéu de 
 
 
 # Tecnologias usadas 🔍
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,)](https://skillicons.dev)
 
 # Rede profissional 👇
 acesse [LinkedIn](https://www.linkedin.com/in/felipexavier2/) - E Sejam bem vindos!
